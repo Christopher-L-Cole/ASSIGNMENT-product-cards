@@ -57,3 +57,7 @@ body {
     justify-content: space-around;
     flex-wrap: wrap
 }
+
+.container {
+  border: 6px solid rgb(135, 41, 22);
+  }
